@@ -24,6 +24,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Department-Service" options="-parameters" />
       <module name="Employee-Service" options="-parameters" />
+      <module name="api-gateway" options="-parameters" />
       <module name="service-registry" options="-parameters" />
     </option>
   </component>
